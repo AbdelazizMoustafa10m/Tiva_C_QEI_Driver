@@ -2,4 +2,4 @@
 Quadrature Encoder Interface(QEI) Driver for the TM4C123G microcontroller
 
 
-Author : Abdelaziz Moustafa Abdelazem
+Author : ENG/ Abdelaziz Moustafa Abdelazem
